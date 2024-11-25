@@ -7,9 +7,9 @@ Farming <br>
 Cooking <br>
 Marketplace <br>
 Levelling up <br>
-Cusines:
-  Japanese
-  Italian
-  Chinese
-  American
-  French
+Cusines: <br>
+- Japanese <br>
+- Italian <br>
+- Chinese <br>
+- American <br>
+- French <br>
